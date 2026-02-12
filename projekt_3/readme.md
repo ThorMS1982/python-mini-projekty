@@ -1,0 +1,1 @@
+Program pobiera tekst i zastępuje innym znakiem , za każdym razem innym po uruchomieniu programu.
