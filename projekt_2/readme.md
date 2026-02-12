@@ -1,0 +1,1 @@
+Prosty prgram do rozdzielenia nazwy emaila od jego domeny
