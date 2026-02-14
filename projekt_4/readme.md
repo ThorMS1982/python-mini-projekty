@@ -1,0 +1,1 @@
+Program pokazuje aktualną pogodę w wybranym mieście. Api ze strony https://openweathermap.org.
