@@ -1,0 +1,1 @@
+Program jest quizem trzech pytań utworzonych w formacie json, z czterema możliwymi odpowiedziami. 

@@ -1,0 +1,27 @@
+[
+    {   "pytanie" : "Jak nazywa się stolica Polski?",
+        "a" : "Warszawa",
+        "b" : "Poznań",
+        "c" : "Kraków",
+        "d" : "Gdynia",
+        "prawidłowa_odpowiedź":"a"
+    },
+    {
+        "pytanie": "Ile wynosi 2 + 2?",
+        "a" : 6,
+        "b" : 8,
+        "c" : 4,
+        "d" : 0,
+        "prawidłowa_odpowiedź":"c"
+    },
+    {
+        "pytanie": "Ile kontynentów jest na Ziemi?",
+        "a" : 6,
+        "b" : 7,
+        "c" : 4,
+        "d" : 10,
+        "prawidłowa_odpowiedź":"b"
+    }
+
+
+]
