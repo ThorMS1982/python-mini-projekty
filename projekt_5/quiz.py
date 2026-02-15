@@ -1,4 +1,8 @@
 import json
+import os
+
+base_dir = os.path.dirname(__file__)
+file_path = os.path.join(base_dir, "quiz.json")
 
 points = 0
 
@@ -25,7 +29,7 @@ def show_questions(question):
 
 
 
-with open("quiz.json", "r", encoding="utf-8") as json_file:
+with open(file_path, "r", encoding="utf-8") as json_file:
     questions = json.load(json_file)
 
 
