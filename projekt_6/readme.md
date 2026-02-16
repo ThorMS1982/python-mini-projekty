@@ -3,3 +3,5 @@ Program pobiera od użytkownika hasło główne.
 2. Możemy zobaczyć użtkownika i jego hasło w konsli, wybierając 'zobacz', potrzeba potwierdzic hasłem głównym.
 3. Możemy dane eksportować, tu również potrzebujemy hasła głownego, powstanie plik decrypted_passwords.txt, gdzie zobaczmy czytelne dane.
 
+pip install cryptography
+
